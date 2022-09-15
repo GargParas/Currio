@@ -1,0 +1,21 @@
+{
+  "name": "currency.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GargParas/Currio"
+  },
+  "author": "param",
+  "license": "ISC",
+  "homepage": "https://github.com/GargParas/Currio/blob/main/README.md",
+  "dependencies": {
+    "@sashido/teachablemachine-node": "^1.2.1",
+    "@tensorflow/tfjs-node": "^3.3.0",
+    "express": "^4.17.1"
+  }
+}
